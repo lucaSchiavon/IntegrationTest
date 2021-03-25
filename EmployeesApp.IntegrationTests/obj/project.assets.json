@@ -9643,11 +9643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\IntegrationTestsExampleGit\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp.IntegrationTests\\EmployeesApp.IntegrationTests.csproj",
+      "projectUniqueName": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\integrtest\\IntegrationTest\\EmployeesApp.IntegrationTests\\EmployeesApp.IntegrationTests.csproj",
       "projectName": "EmployeesApp.IntegrationTests",
-      "projectPath": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\IntegrationTestsExampleGit\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp.IntegrationTests\\EmployeesApp.IntegrationTests.csproj",
+      "projectPath": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\integrtest\\IntegrationTest\\EmployeesApp.IntegrationTests\\EmployeesApp.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\Luca\\.nuget\\packages\\",
-      "outputPath": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\IntegrationTestsExampleGit\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp.IntegrationTests\\obj\\",
+      "outputPath": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\integrtest\\IntegrationTest\\EmployeesApp.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9667,8 +9667,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\IntegrationTestsExampleGit\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj": {
-              "projectPath": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\IntegrationTestsExampleGit\\testing-aspnetcore-mvc\\StartingProject\\EmployeesApp\\EmployeesApp\\EmployeesApp.csproj"
+            "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\integrtest\\IntegrationTest\\EmployeesApp\\EmployeesApp.csproj": {
+              "projectPath": "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\integrtest\\IntegrationTest\\EmployeesApp\\EmployeesApp.csproj"
             }
           }
         }

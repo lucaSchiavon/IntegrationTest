@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("EmployeesApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\L_SCHIAVON_DOCUMENTS\\LAVORO\\NOGIT\\integrtest\\IntegrationTest\\EmployeesApp", "EmployeesApp.csproj", "0")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("EmployeesApp.IntegrationTests")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EmployeeApp.AutomatedUITestws")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("EmployeesApp.IntegrationTests")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EmployeesApp.IntegrationTests")]
+[assembly: System.Reflection.AssemblyProductAttribute("EmployeeApp.AutomatedUITestws")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EmployeeApp.AutomatedUITestws")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generato dalla classe WriteCodeFragment di MSBuild.
